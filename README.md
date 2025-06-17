@@ -1,6 +1,6 @@
 # Hi, I'm Naol Aboma 👋
 
-🚀 **Electrical and Computer Engineering 5th Year Student | Software Engineer | A2SV (Africa to Silicon Valley) Learner**
+🚀 **Electrical and Computer Engineering Student | Software Engineer | A2SV (Africa to Silicon Valley) Learner**
 
 ---
 
