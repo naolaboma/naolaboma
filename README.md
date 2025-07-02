@@ -16,7 +16,7 @@
 ## Skills
 
 - **Programming Languages**: Python, JavaScript, Java
-- **Frameworks**: React, Django, Express
+- **Frameworks**: React, Express
 - **Tools**: Git, Docker, Kubernetes
 - **Databases**: MySQL, MongoDB
 
