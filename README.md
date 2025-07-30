@@ -18,7 +18,7 @@
 - **Programming Languages**: Python, JavaScript, GO, Laravel, PHP
 - **Frameworks**: React, ExpressJs, Gin, Laravel
 - **Tools**: Git, Docker, Kubernetes
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB, PostgreSQL
 
 ---
 
