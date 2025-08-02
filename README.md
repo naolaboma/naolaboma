@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate software engineer and Electrical & Computer Engineering student at **Addis Ababa University (GPA: 3.68/4.0)**.  
+I'm a passionate software engineer and Electrical & Computer Engineering student at **Addis Ababa University**.  
 Currently in the **Africa to Silicon Valley (A2SV)** program, I'm sharpening my skills in data structures, algorithms, and scalable backend systems.
 
 I'm driven by solving real-world problems through clean architecture, efficient APIs, and well-structured systems. Whether it's designing embedded circuits or building full-stack apps, I'm always up for a challenge.
