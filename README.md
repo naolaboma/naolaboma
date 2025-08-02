@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm <span style="color:#f97316"><b>Naol Aboma</b></span> 👋</h1>
+<h1 align="center">✨ Hi, I'm <b style="color:#6366f1;">Naol Aboma</b> ✨</h1>
+
 <p align="center">
-  🚀 Electrical & Computer Engineering Student • Backend Engineer • A2SV Learner
+  <b>Backend Engineer</b> · <b>A2SV Learner</b> · <b>Problem Solver</b><br/>
+  🚀 Passionate about building scalable systems and solving real-world challenges.
 </p>
-🚀 **Electrical and Computer Engineering Student | Backend Engineer | A2SV Learner | Competitive Programmer**
 
 ---
 
