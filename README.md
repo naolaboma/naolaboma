@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000¢er=true&vCenter=true&width=550&lines=Hi+I'm+Naol+Aboma;Backend+Engineer+%7C+A2SV+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000¢er=true&vCenter=true&width=680&lines=Hi+I'm+Naol+Aboma;Backend+Engineer+%7C+A2SV+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 ## 🧠 About Me
