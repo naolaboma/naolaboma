@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Naol Aboma
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=440&height=50&lines=Hi+I'm+Naol+Aboma;Backend+Engineer+%7C+A2SV+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+</h1>
 🚀 **Electrical and Computer Engineering Student | Backend Engineer | A2SV Learner | Competitive Programmer**
 
 ---
