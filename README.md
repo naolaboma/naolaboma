@@ -1,7 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000¢er=true&vCenter=true&width=500&lines=Hi+I'm+Naol+Aboma;Backend+Engineer;A2SV+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000¢er=true&vCenter=true&width=440&height=50&lines=Hi+I'm+Naol+Aboma" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  🚀 <strong>Electrical and Computer Engineering Student | Backend Engineer | A2SV Learner | Competitive Programmer</strong>
+</p>
+---
 ## 🧠 About Me
 
 I'm a passionate software engineer and Electrical & Computer Engineering student at **Addis Ababa University**.  
