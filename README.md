@@ -58,7 +58,6 @@ I'm driven by solving real-world problems through clean architecture, efficient 
 
 ## 🏆 Achievements
 
-- 🥇 **Ranked 19th** nationally in Ethiopian high school exit exam — out of 600,000+ students
 - 🧠 Solved 350+ DSA problems on **LeetCode** and **Codeforces**
 - 🤝 Collaborated on 5+ real-world software projects using Git & GitHub
 - 🎯 Fast learner and active contributor to open-source projects
