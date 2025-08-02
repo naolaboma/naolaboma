@@ -78,7 +78,7 @@ Simulated a basic embedded CPU circuit for arithmetic operations using logic gat
 ## 🏆 Achievements
 
 - 🥇 **Ranked 19th** nationally in Ethiopian high school exit exam — out of 600,000+ students
-- 🧠 Solved 200+ DSA problems on **LeetCode** and **Codeforces**
+- 🧠 Solved 350+ DSA problems on **LeetCode** and **Codeforces**
 - 🤝 Collaborated on 5+ real-world software projects using Git & GitHub
 - 🎯 Fast learner and active contributor to open-source projects
 
