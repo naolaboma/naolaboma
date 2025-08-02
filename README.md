@@ -5,7 +5,6 @@
 <p align="center">
   🚀 <strong>Electrical and Computer Engineering Student | Backend Engineer | A2SV Learner | Competitive Programmer</strong>
 </p>
----
 ## 🧠 About Me
 
 I'm a passionate software engineer and Electrical & Computer Engineering student at **Addis Ababa University**.  
