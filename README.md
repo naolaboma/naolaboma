@@ -1,9 +1,6 @@
-<h1 align="center">✨ Hi, I'm <b style="color:#6366f1;">Naol Aboma</b> ✨</h1>
-
-<p align="center">
-  <b>Backend Engineer</b> · <b>A2SV Learner</b> · <b>Problem Solver</b><br/>
-  🚀 Passionate about building scalable systems and solving real-world challenges.
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naol+Aboma+👋;Backend+Engineer+%7C+A2SV+Learner+%7C+Problem+Solver;Go+%26+MongoDB+Developer+%7C+React+%26+Laravel+Explorer" alt="Typing SVG" />
+</h1>
 
 ---
 
