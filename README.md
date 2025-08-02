@@ -56,25 +56,6 @@ I'm driven by solving real-world problems through clean architecture, efficient 
 
 ---
 
-## 💻 Projects
-
-### 🚗 [Garage Management System](https://github.com/naolaboma/Garage-Management-System)
-Built a robust backend using **Node.js**, **Express**, and **MySQL** with role-based authentication and database schema design.
-
-### 🏨 [Hotel Management System](https://github.com/Hotel-Translyvania/Hotel-Management-System)
-Frontend developer for a guest-facing and staff portal built in **React**/**Next.js**, integrated with REST APIs, and designed for usability.
-
-### 📚 [Task Manager API](https://github.com/naolaboma/Go-Learnig-Path-Tasks)
-Developed secure RESTful APIs with **Go**, **MongoDB**, and **JWT Auth**, following Clean Architecture principles.
-
-### ✍️ [Word Editor](https://github.com/naolaboma/wordeditor)
-Java-based desktop text editor with syntax highlighting, auto-completion, and customizable UI themes.
-
-### ⚙️ [8-bit CPU Design](https://github.com/naolaboma/CPU)
-Simulated a basic embedded CPU circuit for arithmetic operations using logic gates, switches, and 7-segment displays.
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **Ranked 19th** nationally in Ethiopian high school exit exam — out of 600,000+ students
