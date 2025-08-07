@@ -56,6 +56,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=naolaboma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naolaboma&theme=tokyonight&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naolaboma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naolaboma&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
