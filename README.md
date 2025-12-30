@@ -57,9 +57,6 @@
 
 ![Top Languages](https://github-readme-stats-delta-nine-50.vercel.app/api/top-langs/?username=naolaboma&layout=compact&theme=tokyonight)
 
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=naolaboma&theme=tokyonight](https://github-readme-streak-stats-lilac-ten-47.vercel.app/?user=naolaboma&theme=tokyonight
-))
-
 ---
 
 ⭐️ From [Naol Aboma](https://github.com/naolaboma)
