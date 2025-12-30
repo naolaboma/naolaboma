@@ -5,10 +5,10 @@
 
 ## 🔭 Current Projects
 
-- Developing **backend systems** using Go (Golang) and Laravel (PHP)
-- Participating in **Africa to Silicon Valley (A2SV)** for advanced DSA & systems design
-- Building a **blog platform** with Go, MongoDB, and AI integration
-- Actively solving DSA problems on **LeetCode** and **Codeforces**
+- **Software Engineering Intern @ SantimPay** — building an **invoice payment system**
+- **Part-time @ INSA** — contributing to a **national project**
+- Backend-focused: **Go (Golang)**, **Laravel (PHP)**, APIs, databases
+- Learning & practicing **DSA + Systems Design** (A2SV), active on **LeetCode/Codeforces**
 
 ## 🌐 Socials
 
