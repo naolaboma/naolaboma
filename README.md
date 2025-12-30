@@ -1,21 +1,14 @@
 <h1>Hi there 👋, I'm Naol Aboma</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naolaboma.UniqueBadge.Naol" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;Software+Engineering+Intern+%40+SantimPay;Part-time+%40+INSA;Backend+Engineer+%7C+ECE+Student;A2SV+Learner+%7C+Competitive+Programmer;Let%E2%80%99s+Build+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;Backend+Engineer+%7C+ECE+Student;A2SV+Learner+%7C+Competitive+Programmer;Let%E2%80%99s+Build+Together!)](https://git.io/typing-svg)
 
-## 👨‍💻 Current Status
+## 🔭 Current Projects
 
-- **Software Engineering Intern @ SantimPay** — building an **invoice payment system**
-- **Part-time @ INSA** — contributing to a **national project**
-- Backend-focused: **Go (Golang)**, **Laravel (PHP)**, APIs, databases
-- Learning & practicing **DSA + Systems Design** (A2SV), active on **LeetCode/Codeforces**
-
-## 🔭 What I’m Working On
-
-- **SantimPay:** Building an **invoice payment system** (backend)
-- **INSA:** Working on a **national project**
-- **A2SV:** Advanced **DSA** + **systems design** training
-- Practicing **competitive programming** on **LeetCode** and **Codeforces**
+- Developing **backend systems** using Go (Golang) and Laravel (PHP)
+- Participating in **Africa to Silicon Valley (A2SV)** for advanced DSA & systems design
+- Building a **blog platform** with Go, MongoDB, and AI integration
+- Actively solving DSA problems on **LeetCode** and **Codeforces**
 
 ## 🌐 Socials
 
@@ -58,11 +51,11 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=naolaboma&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600)<br/>
-![](https://streak-stats.demolab.com?user=naolaboma&theme=tokyonight&hide_border=false&cache_seconds=21600)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naolaboma&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=21600)
+![](https://github-readme-stats.vercel.app/api?username=naolaboma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=naolaboma&theme=tokyonight&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naolaboma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
