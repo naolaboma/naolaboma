@@ -51,11 +51,13 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=naolaboma&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600)<br/>
-![](https://streak-stats.demolab.com?user=naolaboma&theme=tokyonight&hide_border=false&cache_seconds=21600)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naolaboma&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=21600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naolaboma&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naolaboma&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naolaboma&layout=compact&theme=tokyonight)
 
 ---
 
