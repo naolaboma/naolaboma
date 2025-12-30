@@ -53,7 +53,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naolaboma&show_icons=true&theme=tokyonight)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=naolaboma&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=naolaboma&show_icons=true&theme=tokyonight&v=3
+))
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naolaboma&theme=tokyonight)
 
