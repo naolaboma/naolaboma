@@ -51,4 +51,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-delta-nine-50.vercel.app/api?username=naolaboma&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-delta-nine-50.vercel.app/api/top-langs/?username=naolaboma&layout=compact&theme=tokyonight)
+
+---
+
 ⭐️ From [Naol Aboma](https://github.com/naolaboma)
