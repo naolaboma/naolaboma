@@ -6,7 +6,6 @@
 ## 🔭 Current Projects
 
 - **Software Engineering Intern @ SantimPay** — building an **invoice payment system**
-- **Part-time @ INSA** — contributing to a **national project**
 - Backend-focused: **Go (Golang)**, **Laravel (PHP)**, APIs, databases
 - Learning & practicing **DSA + Systems Design** (A2SV), active on **LeetCode/Codeforces**
 
