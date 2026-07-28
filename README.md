@@ -5,7 +5,7 @@
 
 ## 🔭 Current Projects
 
-- **Software Engineering Intern @ SantimPay** — building an **invoice payment system**
+- **Software Engineer @ EagleLion Systems Technology** — building an **payment/financial systems**
 - Backend-focused: **Go (Golang)**, **NodeJS(ExpressJS)**, APIs, databases
 - Learning & practicing **DSA + Systems Design** (A2SV), active on **LeetCode/Codeforces**
 
