@@ -1,49 +1,148 @@
-<h1>Hi there 👋, I'm Naol Aboma</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naolaboma.UniqueBadge.Naol" />
+# Hi, I'm Naol Aboma 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;Backend+Engineer+%7C+ECE+Student;A2SV+Learner+%7C+Competitive+Programmer;Let%E2%80%99s+Build+Together!)](https://git.io/typing-svg)
+### Backend Software Engineer | Go (Golang) | Microservices | Distributed Systems
 
-## 🔭 Current Projects
+I build backend services and APIs with **Go**, with a focus on reliability, distributed systems, fintech, and system design.
 
-- **Software Engineer @ EagleLion Systems Technology** — building a **payment/financial systems**
-- Backend-focused: **Go (Golang)**, **NodeJS(ExpressJS)**, APIs, databases
-- Learning & practicing **DSA + Systems Design** (A2SV), active on **LeetCode/Codeforces**
+Currently working as a **Backend Software Engineer at EagleLion System Technology**, contributing to Go microservices for a digital-banking platform under development.
 
-## 🌐 Socials
+🌐 **Portfolio:** [naolaboma.dev](https://naolaboma.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/naolaboma/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naolae/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Naole)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white)](https://github.com/naolaboma)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naolaboma@gmail.com)
+---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Programming Languages**  
+- 🔹 Backend Software Engineer focused on **Go**
+- 🔹 Building APIs, microservices, transaction workflows, and distributed systems
+- 🔹 Experience with **Kafka, Redis, gRPC, MongoDB, PostgreSQL, Oracle, Docker, and Kubernetes**
+- 🔹 Interested in backend reliability, concurrency, event-driven systems, and fintech infrastructure
+- 🔹 Computer Engineering graduate from **Addis Ababa University**
+- 🔹 Completed **500+ DSA problems** through A2SV and competitive programming
+- 🔹 Also experienced with IoT, embedded systems, and applied machine learning
+
+---
+
+## 🚀 What I'm Working With
+
+### Primary Language
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Frameworks & Libraries**  
-![Gin](https://img.shields.io/badge/Gin-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### Backend & APIs
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+
+### Data & Messaging
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+### Infrastructure & Observability
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+### Also Worked With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### Backend Software Engineer — EagleLion System Technology
+**Jan 2026 – Present**
+
+Working on Go-based backend services for a digital-banking platform under development.
+
+Areas I work with include:
+
+- Go microservices and REST/gRPC APIs
+- Transaction and payment workflows
+- External service integrations
+- Kafka-based event processing
+- Redis-based reliability mechanisms
+- MongoDB and Oracle
+- Authentication and authorization
+- Docker and Kubernetes
+- Observability with OpenTelemetry and Prometheus
+
+---
+
+## 🧩 Selected Projects
+
+### 🚀 JobGen
+
+AI-powered career platform with a **Go backend** and React/TypeScript frontend.
+
+Engineering areas include:
+
+- Go backend services
+- Concurrent processing
+- Redis caching
+- REST APIs
+- AI service integration
+- CI/CD and containerization
+
+---
+
+### 💳 Invoice Payment System
+
+Backend-focused fintech project for invoice creation and payment workflows.
+
+Worked with:
+
+- Go
+- REST APIs
+- Payment links
+- Transaction status tracking
+- Callback/reconciliation workflows
+- Database-backed transaction management
+
+---
+
+### 🩺 Smart IoT Elderly Care & Emergency Response System
+
+Co-developed an IoT-based wearable system for fall detection and emergency response.
+
+Architecture included:
+
+**Wearable Sensors → Embedded ML → GSM Communication → Go Backend → PostgreSQL → Web Dashboard**
+
+Technologies included:
+
+- Go / Gin
+- PostgreSQL
+- React / TypeScript
+- Arduino Nano 33 BLE Sense
+- IMU sensors
+- GSM/GPRS
+- On-device machine learning
+
+---
+
+## 🧠 Topics I'm Interested In
+
+- Go concurrency
+- Distributed systems
+- Backend reliability
+- Event-driven architecture
+- Kafka
+- API design
+- Microservices
+- System design
+- Fintech infrastructure
+- Observability
 
 ---
 
@@ -55,4 +154,15 @@
 
 ---
 
-⭐️ From [Naol Aboma](https://github.com/naolaboma)
+## 🤝 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-naolaboma.dev-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naolaboma.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naolaboma/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naolaboma)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naolae/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Naole)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naolaboma@gmail.com)
+
+---
+
+### Currently focused on becoming a stronger Go backend engineer by building reliable, observable, and maintainable distributed systems.
